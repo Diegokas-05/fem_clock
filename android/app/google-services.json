@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829328918053",
+    "project_id": "femclock",
+    "storage_bucket": "femclock.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829328918053:android:2d1e896e65a5644b8b21cc",
+        "android_client_info": {
+          "package_name": "com.example.fem_clock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHXJ4XSTWJxRr85TYarhySCCUiVlFyzEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
